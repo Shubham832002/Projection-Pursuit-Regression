@@ -1,1 +1,2 @@
 # Projection-Pursuit-Regression
+Projection Pursuit Regression (PPR) is a technique developed in the 1980s to model complex, non-linear relationships in data. It uses iterative projections of high-dimensional data into lower-dimensional spaces to uncover hidden patterns and structures that traditional regression models might miss. PPR does not assume linear relationships and instead combines smooth functions of predictors iteratively to model the regression surface, making it flexible and effective for diverse datasets with complex structures.
